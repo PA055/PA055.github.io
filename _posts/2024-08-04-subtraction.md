@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Subtraction
-date: 2024-09-30 19:57 -0400
+date: 2024-08-04 21:08:42 -0400
 category: [Writeups, n00bz CTF]
 tags: [Misc, Programming]
 ---

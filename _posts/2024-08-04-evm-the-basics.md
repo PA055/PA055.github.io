@@ -1,7 +1,7 @@
 ---
 layout: post
 title: EVM - The Basics
-date: 2024-09-30 20:06 -0400
+date: 2024-08-04 20:56:21 -0400
 category: [Writeups, n00bz CTF]
 tags: [Blockchain, EVM Runtime Bytecode]
 ---
