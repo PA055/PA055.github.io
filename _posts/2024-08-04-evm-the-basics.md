@@ -6,9 +6,6 @@ category: [Writeups, n00bz CTF]
 tags: [Blockchain, EVM Runtime Bytecode]
 ---
 
-
-# Blockchain/EVM - The Basics  
-**Writeup Author:** lufimio  
 **Original Solver:** lolmenow  
 **Point Value:** 363  
 

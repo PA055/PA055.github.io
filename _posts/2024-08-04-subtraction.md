@@ -6,8 +6,6 @@ category: [Writeups, n00bz CTF]
 tags: [Misc, Programming]
 ---
 
-# Misc/Subtraction  
-**Writeup Author:** lufimio  
 **Original Solver:** lufimio  
 **Point Value:** 448  
 
