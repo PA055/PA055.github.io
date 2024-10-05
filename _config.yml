@@ -155,8 +155,10 @@ baseurl: ""
 jekyll_compose:
   default_front_matter:
     posts:
-      category: []
-      tags: []
+      description:
+      image:
+      category:
+      tags:
 
 
 # ------------ The following options are not recommended to be modified ------------------

@@ -2,8 +2,13 @@
 layout: post
 title: EVM - The Basics
 date: 2024-08-04 20:56:21 -0400
-category: [Writeups, n00bz CTF]
-tags: [Blockchain, EVM Runtime Bytecode]
+description: A writeup for the Blockchain/EVM - The Basics challenge in n00bz CTF, about decoding some EVM runtime bytecode
+category: 
+ - Writeups
+ - n00bz CTF
+tags: 
+ - Blockchain
+ - EVM Runtime Bytecode
 ---
 
 **Original Solver:** lolmenow  

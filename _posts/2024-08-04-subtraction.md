@@ -2,8 +2,13 @@
 layout: post
 title: Subtraction
 date: 2024-08-04 21:08:42 -0400
-category: [Writeups, n00bz CTF]
-tags: [Misc, Programming]
+description: A writeup for the Misc/Subtraction challenge in n00bz CTF (more like a programming challenge)
+category: 
+ - Writeups
+ - n00bz CTF
+tags: 
+ - Misc
+ - Programming
 ---
 
 **Original Solver:** lufimio  
