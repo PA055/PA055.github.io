@@ -12,8 +12,8 @@ tags:
 ---
 
 # Babies first ez Python4
-**Rev • 448 pts • chal author: elli**
-*Attachments:* chal.txt
+**Rev • 448 pts • chal author: elli**  
+*__Attachments:__* chal.txt
 
 ## Thoughts Ig
 Looking at the attachment, its pretty clear that we are supposed to reverse engineer some python bytecode. The concept is similar to a challenge in picoCTF 2024 that I solved (WeirdSnake) so I do have some experience in reading and understanding python bytecode.
