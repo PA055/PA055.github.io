@@ -160,7 +160,6 @@ jekyll_compose:
       category:
       tags:
 
-
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
@@ -222,7 +221,9 @@ exclude:
   - README.md
   - LICENSE
   - "*.config.js"
-  - package*.json
+  - purgecss.js
+  - rollup.config.js
+  - "package*.json"
 
 jekyll-archives:
   enabled: [categories, tags]
